@@ -6,6 +6,10 @@ You can switch between the different branches of this repository; there is one b
 
 ## Tutorial Parts
 
+
+# DOT ENV TO SETUP API TOKEN
+
+
 ### Part 1
  - Tutorial: [Add a headless CMS to Next.js 3 in 5 minutes](https://www.storyblok.com/tp/add-a-headless-cms-to-next-js-in-5-minutes)
  - Live demo: [Open in StackBlitz](https://stackblitz.com/edit/nextjs-5-minutes)
